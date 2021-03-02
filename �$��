@@ -1,0 +1,16 @@
+---------Pre order traversal----------
+ fjd 
+     al 
+         d 
+     mef 
+         fne 
+             vi 
+--------------------------------------
+---------Post order traversal---------
+         d 
+     al 
+             vi 
+         fne 
+     mef 
+ fjd 
+--------------------------------------
